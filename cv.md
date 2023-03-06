@@ -1,5 +1,5 @@
 # Dominika Tyamchik
-![photo](.me.jpg)
+![photo](.\me.jpg)
 ## Contacts
 * **Location**: _Warsaw, Poland_
 * **Phone**: _+48 515 727 042_ (Poland), _+375 33 671 47 52_ (for messangers)
