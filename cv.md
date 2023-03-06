@@ -1,28 +1,30 @@
 # Dominika Tyamchik
+![photo](.me.jpg)
 ## Contacts
-### * **Location**: Warsaw, Poland
-### * **Phone**: +48 515 727 042 (Poland), +375 33 671 47 52 (for messangers)
-### * **Email**: tyamchik.dominika@gmail.com
-### * **GitHub**: https://github.com/Zhental
+* **Location**: _Warsaw, Poland_
+* **Phone**: _+48 515 727 042_ (Poland), _+375 33 671 47 52_ (for messangers)
+* **Email**: _tyamchik.dominika@gmail.com_
+* **GitHub**: _https://github.com/Zhental_
 ## About me
-#### Hi! I'm 22 years old, and I'm from Belarus. I've been trying to enter IT sinse February 2022. I was learning Python before, majored in BackEnd. Then desided to try JavaScript and FrontEnd developmenl. Hopefully it'll be easier to me to step in it from such side, knowing python's syntax. I have no IT work experiense, but have some in my specialization from the University. I have many good recommendations from last jobs about my cleverness and responsibility, so I think, my future employer will be happy to have me. As for me, I just like to cope with different puzzles.
+####    Hi! I'm 22 years old, and I'm from Belarus. I've been trying to enter IT sinse February 2022. I was learning Python before, majored in BackEnd. Then desided to try JavaScript and FrontEnd developmenl. Hopefully it'll be easier to me to step in it from such side, knowing python's syntax. I have no IT work experiense, but have some in my specialization from the University. I have many good recommendations from last jobs about my cleverness and responsibility, so I think, my future employer will be happy to have me. As for me, I just like to cope with different puzzles.
 ## Skills
-### * HTML, CSS
-### * Python
-### * SQL, MySQL
-### * Git, GitHub
-### * JavaScript basics
+* HTML, CSS
+* Python
+* SQL, MySQL
+* Git, GitHub
+* JavaScript basics
 
 
 ## Code example
-```let friend1 = {
-    firstname : "Jack",
-    lastname : "White",
-    weight : 79,
-    height : 1.7,
-    calculateBMI : function () {
-        this.BMI = this.weight/(this.height**2);
-        return this.BMI;
+```
+let friend1 = {
+firstname : "Jack",
+lastname : "White",
+weight : 79,
+height : 1.7,
+calculateBMI : function () {
+    this.BMI = this.weight/(this.height**2);
+    return this.BMI;
     }
 }
 
@@ -48,11 +50,11 @@ if (friend1.BMI > friend2.BMI) {
 }
 ```
 ## Work experience
-#### * Manager in sales department, company "Life:)", Minsk.
-#### * Engeneer-constructor, company "Peleng", Minsk.
+* Manager in sales department, company "Life:)", Minsk.
+* Engeneer-constructor, company "Peleng", Minsk.
 ## Education
-### * University: Belarusian National Technical University, Packaging Design major
-### * Courses: uncountable quantity of Python courses from Udemi and Stepik, and "Modern JavaScript" course about JavaScript, obviously.
+* University: Belarusian National Technical University, Packaging Design major
+* Courses: uncountable quantity of Python courses from Udemi and Stepik, and "Modern JavaScript" course about JavaScript, obviously.
 ## English level
 #### I've been learning English personally with teacher sinse May 2022 and she said I'm exactly in the middle between B1 and B2 now.
 
