@@ -1,1 +1,1 @@
-https://zhental.github.io/rsschool-cv/cv
+https://zhental.github.io/rsschool-cv/
